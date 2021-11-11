@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 
-using KeLi.HelloMongoDb.App.Properties;
+using KeLi.HelloMongoDb.Properties;
 
 using MongoDB;
 using MongoDB.Configuration;
 using MongoDB.Linq;
 
-namespace KeLi.HelloMongoDb.App.Utils
+namespace KeLi.HelloMongoDb.Utils
 {
     public class MongoUtil
     {

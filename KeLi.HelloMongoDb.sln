@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.HelloMongoDb.App", "KeLi.HelloMongoDb.App\KeLi.HelloMongoDb.App.csproj", "{8CEFBDA1-0B97-43AB-B1F6-029BB04ABFBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeLi.HelloMongoDb", "KeLi.HelloMongoDb\KeLi.HelloMongoDb.csproj", "{8CEFBDA1-0B97-43AB-B1F6-029BB04ABFBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

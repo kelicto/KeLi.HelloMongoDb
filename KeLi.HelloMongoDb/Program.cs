@@ -1,9 +1,9 @@
 ﻿using System;
 
-using KeLi.HelloMongoDb.App.DataModels;
-using KeLi.HelloMongoDb.App.Utils;
+using KeLi.HelloMongoDb.Models;
+using KeLi.HelloMongoDb.Utils;
 
-namespace KeLi.HelloMongoDb.App
+namespace KeLi.HelloMongoDb
 {
     internal class Program
     {

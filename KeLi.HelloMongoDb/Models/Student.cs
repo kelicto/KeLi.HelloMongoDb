@@ -1,4 +1,4 @@
-﻿namespace KeLi.HelloMongoDb.App.DataModels
+﻿namespace KeLi.HelloMongoDb.Models
 {
     public class Student : BaseRecord
     {

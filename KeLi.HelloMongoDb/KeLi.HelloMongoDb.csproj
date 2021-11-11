@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8CEFBDA1-0B97-43AB-B1F6-029BB04ABFBF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>KeLi.HelloMongoDb.App</RootNamespace>
-    <AssemblyName>KeLi.HelloMongoDb.App</AssemblyName>
+    <RootNamespace>KeLi.HelloMongoDb</RootNamespace>
+    <AssemblyName>KeLi.HelloMongoDb</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,8 +52,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataModels\BaseRecord.cs" />
-    <Compile Include="DataModels\Student.cs" />
+    <Compile Include="Models\BaseRecord.cs" />
+    <Compile Include="Models\Student.cs" />
     <Compile Include="Utils\MongoUtil.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
